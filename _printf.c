@@ -45,6 +45,7 @@ break;
 default:
 _putchar('%'), _putchar(*ptr), num += 2;
 }
+}
 else
 _putchar(*ptr), num++;
 }
